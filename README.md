@@ -2,8 +2,9 @@
 
 ## Project
 
-Team project attempting to model the evolution of the protective forests health in Switzerland.
-Presentation of the project available on [Jedha Bootcamp](https://www.youtube.com/watch?v=Hbn9JkuRaWk&t=5136s&ab_channel=JedhaBootcamp) youtube channel.
+**Team project attempting to model the evolution of the protective forests health in Switzerland.**
+**Presentation of the project available on [Jedha Bootcamp](https://www.youtube.com/watch?v=Hbn9JkuRaWk&t=5136s&ab_channel=JedhaBootcamp) youtube channel.**
+**Personal video: [link](https://share.vidyard.com/watch/b9RyZCoLyf3uP7U6CYiFYZ?)**
 
 **Team**
 Main contribution:
