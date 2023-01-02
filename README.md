@@ -29,8 +29,7 @@ Results take form through:
 ![map](https://github.com/NoyE-R/JF_B6_ProtectiveForest/blob/main/items/map_BA_diff.png)
 
 - For more details:
-
-![qrcode](https://github.com/NoyE-R/JF_B6_ProtectiveForest/blob/main/items/qrcode.png)
+![qrcode](https://github.com/NoyE-R/JF_B6_ProtectiveForest/blob/main/items/qrcode.png? h=200)
 
 **Approach**  
 - We selected three targets to describe and predict in order to get different point of view defining the health of forests:
