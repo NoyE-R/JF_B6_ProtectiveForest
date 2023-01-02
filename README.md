@@ -81,7 +81,7 @@ Example of results of descriptive modeling which was quite conclusive for 2 of t
 
 ### Main Conclusions
 - An increase of 3°C coupled with a general decrease of precipitaiton regime were observed for the studied forest since 40 years leading to a highest probability of drought events.
-In parallel, a certain amount of protective forests, mainly located in the south of Switzerland, display a decrease of the wood production and regeneration cover rate which increase our concerns about their ability to fulfill their protective role in the future.
+Meanwhile, a certain amount of protective forests, mainly located in the south of Switzerland, display a decrease of the wood production and regeneration cover rate which increase our concerns about their ability to fulfill their protective role in the future.
 
 - Analysis:
     - Descriptive analysis shows that Basal Area (BA) and Regeneration cover rate are mainly explained by field data whereas wood volume increment (WVI) is more difficult to describe.
