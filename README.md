@@ -24,10 +24,13 @@ NB: requests to satellites were done by all members of the team using Docker ima
 **Outputs**
 Results take form through:
 - Dashboard summing up workflow, EDA and modeling analysis, available to this [link](https://ukratic-protection-forests-dashboard-home-fsgk56.streamlit.app/);
-[qrcode](https://github.com/NoyE-R/JF_B6_ProtectiveForest/blob/main/items/qrcode.png)
 - Interactive maps forest health.
 
 ![map](https://github.com/NoyE-R/JF_B6_ProtectiveForest/blob/main/items/map_BA_diff.png)
+
+- For more details:
+
+![qrcode](https://github.com/NoyE-R/JF_B6_ProtectiveForest/blob/main/items/qrcode.png)
 
 **Approach**  
 - We selected three targets to describe and predict in order to get different point of view defining the health of forests:
