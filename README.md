@@ -2,9 +2,13 @@
 
 ## Project
 
-**Team project attempting to model the evolution of the protective forests health in Switzerland.**
-**Presentation of the project available on [Jedha Bootcamp](https://www.youtube.com/watch?v=Hbn9JkuRaWk&t=5136s&ab_channel=JedhaBootcamp) youtube channel.**
-**Personal video: [link](https://share.vidyard.com/watch/b9RyZCoLyf3uP7U6CYiFYZ?)**
+Team project attempting to model the evolution of the protective forests health in Switzerland.
+
+Presentation of the project available on [Jedha Bootcamp](https://www.youtube.com/watch?v=Hbn9JkuRaWk&t=5136s&ab_channel=JedhaBootcamp) youtube channel.
+
+Personal video: [link](https://share.vidyard.com/watch/b9RyZCoLyf3uP7U6CYiFYZ?)
+
+Contact: [mail](noyer.estelle@gmail.com)
 
 **Team**
 Main contribution:
@@ -46,7 +50,7 @@ Example of results of descriptive modeling which was quite conclusive for 2 of t
 
 ## Repository architecture
 
-### Folders:
+### **Folders:**
 *dataset*
 - raw datasets from NFI with translated headers in French
 - data_merge_meteo_SAT.xlsx: final working dataframe
@@ -64,11 +68,11 @@ Example of results of descriptive modeling which was quite conclusive for 2 of t
 *satellite*
 - codes for gathering and aggregating satellite data
 
-### Files
+### **Files**
 - NFI_data_preparation.ipynb: preparation and merging the raw NFI datasets
 - EDA_IFN_forestplot_map.ipynb: EDA of forest plot dataset and production of first visualizations
 
-### Library
+## Library
 *data manipulation*:
 - pandas, openpyxl, numpy, json, datetime
 
@@ -81,7 +85,7 @@ Example of results of descriptive modeling which was quite conclusive for 2 of t
 *request*:
 - earth engine
 
-### Main Conclusions
+## Main Conclusions
 - An increase of 3°C coupled with a general decrease of precipitaiton regime were observed for the studied forest since 40 years leading to a highest probability of drought events.
 Meanwhile, a high amount of protective forests displays problematic decrease of the wood production and regeneration cover rate which increase our concerns about their ability to fulfill their protective role in the future.
 
